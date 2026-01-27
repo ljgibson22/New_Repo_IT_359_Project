@@ -5,3 +5,5 @@ Type description here
 - Luke Gibson
 - RJ Dennis
 - Marcellus Neal
+
+## Full Project Idea
