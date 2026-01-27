@@ -7,3 +7,4 @@ Type description here
 - Marcellus Neal
 
 ## Full Project Idea
+Some new text here.
