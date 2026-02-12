@@ -10,7 +10,7 @@ Our semester-long group project, for IT 359.
 Incident Response Log Analyzer
 
 We will build a Python-based Incident Response Log Analyzer that reads system and network log files to detect signs of cyber attacks or suspicious activity.
-The tool would:
+The project will:
   - Parse log files (Linux auth logs, Apache logs, SSH logs, etc.)
   - Detect brute-force login attempts
   - Identify suspicious IP addresses
