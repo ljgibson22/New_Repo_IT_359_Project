@@ -1,0 +1,20 @@
+[
+    {
+        "ip": "192.168.1.10",
+        "severity": "High",
+        "reasons": [
+            "AI anomaly detected",
+            "Possible brute-force attack"
+        ],
+        "ai_anomaly": true
+    },
+    {
+        "ip": "10.0.0.5",
+        "severity": "High",
+        "reasons": [
+            "AI anomaly detected",
+            "Unusual login time"
+        ],
+        "ai_anomaly": true
+    }
+]

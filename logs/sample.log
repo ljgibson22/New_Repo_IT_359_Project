@@ -1,0 +1,10 @@
+Apr 10 09:15:32 server sshd[101]: Accepted password for user from 192.168.1.20
+Apr 10 09:30:12 server sshd[102]: Accepted password for user from 192.168.1.21
+Apr 10 10:05:44 server sshd[103]: Accepted password for user from 192.168.1.22
+Apr 10 11:10:22 server sshd[104]: Accepted password for user from 192.168.1.23
+Apr 10 12:18:09 server sshd[105]: Accepted password for user from 192.168.1.24
+Apr 10 10:15:32 server sshd[123]: Failed password for root from 192.168.1.10
+Apr 10 10:16:01 server sshd[124]: Failed password for root from 192.168.1.10
+Apr 10 10:16:45 server sshd[125]: Failed password for root from 192.168.1.10
+Apr 10 10:17:15 server sshd[126]: Failed password for root from 192.168.1.10
+Apr 10 02:10:12 server sshd[127]: Failed password for admin from 10.0.0.5
