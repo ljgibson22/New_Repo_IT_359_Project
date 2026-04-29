@@ -19,3 +19,6 @@ This project analyzes system logs to detect suspicious activity using both rule-
 
 3. Run program:
    python3 main.py
+
+4. Program compiles results into incident_report.json file, view it:
+   cat incident_report.json
